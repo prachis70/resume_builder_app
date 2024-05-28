@@ -7,7 +7,7 @@
 <img src="https://github.com/prachis70/resume_builder_app/assets/149580593/f30e9e74-b48-4902-b368-d46a7378428f" heigth=22% width=32%>
 <img src="https://github.com/prachis70/resume_builder_app/assets/149580593/6e2f8741-96a-44aa-ab85-18b5576d180f" heigth=22% width=32%>
 <img src="https://github.com/prachis70/resume_builder_app/s/149580593/ba76780b-77fc-45bf-e15b6a2dae92" heigth=22% width=32%>
-<img src="https://github.com/prachis70/resume_builder_app/assets/149580593/1680bd7e-06cf-40ab-aea3-1ba1141bc3aa" heigth=22% width=32%>
+<img src="https://github.com/prachis70/resume_builder_app/assets/149580593/1680bd7e-06f-40ab-aea3-1ba1141bc3aa" heigth=22% width=32%>
 <https://github.com/prachis70/resume_builder_app
 <img src="https://github.com/prachis70/resume_builder_app/assets/149580593/05e7d7dc-4725-4412-9a83-bb1e71f33d50" heigth=22% width=32%>
 <img src= ""height=22℅ width=32℅>
