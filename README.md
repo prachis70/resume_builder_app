@@ -5,6 +5,10 @@
 <img src="https://github.com/prachis70/resume_builder_app/assets/149580593/2ab5f2b5-72df-4bab-ba1a-4d813a071370" heigth=22% width=32%>
 <img src="https://github.com/prachis70/resume_builder_app/assets/149580593/e0796568-3a97-4a39-a2c6-587b1669ccfb" heigth=22% width=32%>
 <img src="https://github.com/prachis70/resume_builder_app/assets/149580593/bbc06194-fedc-42af-80cd-7a3260d640b4" heigth=22% width=32%>
+<img src="https://github.com/prachis70/resume_builder_app/assets/149580593/75c9a93b-514c-4127-bc1a-c118c28a8821" heigth=22% width=32%>
+<img src="https://github.com/prachis70/resume_builder_app/assets/149580593/80c1aba7-8460-44be-ae13-a075fe52d42c" heigth=22% width=32%>
+
+
 
 
 <img src="https://github.com/prachis70/resume_builder_app/assets/149580593/f30e9e74-b48-4902-b368-d46a7378428f" heigth=22% width=32%>
